@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Build
+dist/
+build/
+
+# Environment
+.env
+.env.*
+
+# Cache
+.cache/
+.temp/
+
+# Coverage
+coverage/
+
+# Package Lock (可选)
+# package-lock.json
+# pnpm-lock.yaml
+# yarn.lock
